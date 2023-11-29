@@ -1,1 +1,1 @@
-# SnakeGame
+# Java Desktop App
